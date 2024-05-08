@@ -1,0 +1,181 @@
+hyperskill_project:
+  id: 302
+  ide_files: https://cogniterra.org/media/attachments/lesson/27111/additional_files.json
+  is_template_based: false
+  use_ide: true
+  environment: unittest
+update_date: "Wed, 08 May 2024 06:24:13 UTC"
+stages:
+  - id: 1698
+    step: 23838
+    is_completed: true
+  - id: 1699
+    step: 23839
+    is_completed: true
+  - id: 1700
+    step: 23840
+    is_completed: true
+  - id: 1701
+    step: 23841
+    is_completed: true
+  - id: 1702
+    step: 23842
+    is_completed: true
+  - id: 1703
+    step: 23843
+    is_completed: true
+topics:
+  0:
+    - title: Numerical and categorical data
+      theory_id: 24686
+    - title: Introduction to Python
+      theory_id: 5204
+    - title: Writing first program
+      theory_id: 5208
+    - title: "PEP 8: Coding style guide"
+      theory_id: 5879
+    - title: Taking user's input
+      theory_id: 5913
+    - title: If statement
+      theory_id: 5953
+    - title: Else statement
+      theory_id: 5932
+    - title: For loop
+      theory_id: 6065
+    - title: Comments
+      theory_id: 6081
+    - title: Importing modules
+      theory_id: 6019
+    - title: Installing packages with pip
+      theory_id: 6230
+    - title: Virtual Environment
+      theory_id: 13923
+    - title: The Jupyter Notebook
+      theory_id: 12623
+    - title: Google Colab
+      theory_id: 12631
+    - title: PyCharm basics
+      theory_id: 6193
+    - title: While loop
+      theory_id: 5940
+    - title: "Loop control: break, continue, pass"
+      theory_id: 6302
+    - title: Class
+      theory_id: 6661
+    - title: Methods and attributes
+      theory_id: 6981
+    - title: Running Python applications in PyCharm
+      theory_id: 19153
+    - title: JSON
+      theory_id: 6854
+    - title: Introduction to pandas
+      theory_id: 10416
+    - title: Series
+      theory_id: 10421
+    - title: DataFrame
+      theory_id: 10933
+    - title: Accessing data in a DataFrame
+      theory_id: 12998
+    - title: Working with missing values
+      theory_id: 14686
+    - title: Basic data types
+      theory_id: 5852
+    - title: Variables
+      theory_id: 5859
+    - title: Invoking functions
+      theory_id: 5891
+    - title: Boolean type and operations. True and false
+      theory_id: 6025
+    - title: Comparisons
+      theory_id: 5920
+    - title: List
+      theory_id: 5979
+    - title: Declaring functions
+      theory_id: 5900
+    - title: "Function, arguments and parameters"
+      theory_id: 7248
+    - title: Quotes and multi-line strings
+      theory_id: 5814
+    - title: "Working with strings: basic methods"
+      theory_id: 6842
+    - title: Escape sequences
+      theory_id: 7130
+    - title: Splitting strings and joining lists
+      theory_id: 6972
+    - title: Dictionary
+      theory_id: 6481
+    - title: Type casting
+      theory_id: 6224
+    - title: Sep and end arguments of print
+      theory_id: 7452
+  1:
+    - title: What is math?
+      theory_id: 28537
+    - title: Applications of math
+      theory_id: 28832
+    - title: "Math notations, formulas, and statements"
+      theory_id: 28757
+    - title: Basic concepts
+      theory_id: 26143
+    - title: Basics of sets
+      theory_id: 8220
+    - title: Basics of functions
+      theory_id: 8857
+    - title: Probability and Statistics
+      theory_id: 11637
+    - title: Sample space
+      theory_id: 7309
+    - title: Events
+      theory_id: 7892
+    - title: Formal definition of probability
+      theory_id: 10538
+    - title: Population and sample
+      theory_id: 11274
+    - title: "Mean, median, and mode"
+      theory_id: 11282
+    - title: Reading data in pandas
+      theory_id: 31809
+    - title: .loc & .iloc
+      theory_id: 13343
+    - title: Summarizing numeric columns
+      theory_id: 13359
+    - title: Grouping and aggregating data in pandas
+      theory_id: 12585
+    - title: Handling missing values
+      theory_id: 17154
+  2:
+    - title: Modifying a DataFrame
+      theory_id: 13007
+  3:
+    - title: Cartesian coordinates
+      theory_id: 13114
+    - title: Properties of functions
+      theory_id: 20683
+    - title: Properties of numerical functions
+      theory_id: 20704
+    - title: "Vectors, matrices, scalars"
+      theory_id: 16969
+    - title: Introduction to matrices
+      theory_id: 7112
+    - title: Intro to NumPy
+      theory_id: 9672
+    - title: Introduction to matplotlib
+      theory_id: 16788
+    - title: Matplotlib pie chart
+      theory_id: 16807
+    - title: String formatting
+      theory_id: 6037
+  4:
+    - title: Array creation and indexing
+      theory_id: 10077
+    - title: Matplotlib bar chart
+      theory_id: 16796
+    - title: Indexes
+      theory_id: 6189
+    - title: Slicing
+      theory_id: 6177
+  5:
+    - title: Quartiles
+      theory_id: 26823
+    - title: Matplotlib box plot
+      theory_id: 16818
